@@ -2,12 +2,14 @@ SHASTRI COFFEE SHOP - SALES  ANALYTICS
 
 Power BI Dashboard for Comprehensive Sales Performance Tracking
 
-<img width="1323" height="803" alt="image" src="https://github.com/user-attachments/assets/915b5324-c931-4c06-8a6a-3c4331339cec" />
 
 📌 Overview
 
 
 This Power BI dashboard provides detailed analytics for Shastri Coffee Shop, tracking sales performance, order trends, and customer behavior. The interactive visualizations help business owners and managers make data-driven decisions by identifying key trends, peak sales hours, and product performance.
+
+<img width="1323" height="803" alt="image" src="https://github.com/user-attachments/assets/915b5324-c931-4c06-8a6a-3c4331339cec" />
+
 
 🔑 Key Features
 
