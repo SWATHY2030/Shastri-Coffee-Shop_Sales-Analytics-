@@ -1,94 +1,65 @@
-SHASTRI COFFEE SHOP - SALES  ANALYTICS
+# ☕ Shastri Coffee Shop - Sales Analytics Dashboard
 
-Power BI Dashboard for Comprehensive Sales Performance Tracking
-
-
-📌 Overview
+ <img width="1323" height="803" alt="image" src="https://github.com/user-attachments/assets/915b5324-c931-4c06-8a6a-3c4331339cec" />
 
 
-This Power BI dashboard provides detailed analytics for Shastri Coffee Shop, tracking sales performance, order trends, and customer behavior. The interactive visualizations help business owners and managers make data-driven decisions by identifying key trends, peak sales hours, and product performance.
+## 📌 Overview
+This Power BI dashboard provides real-time sales analytics for Shastri Coffee Shop, helping managers:
+- Track daily/monthly sales performance
+- Identify peak business hours
+- Optimize product offerings
+- Compare weekday vs weekend trends
 
-<img width="1323" height="803" alt="image" src="https://github.com/user-attachments/assets/915b5324-c931-4c06-8a6a-3c4331339cec" />
+## 🔑 Key Features
+- **Sales Performance Tracking** (Daily/Monthly)
+- **Peak Hour Analysis** (Heatmap by Day/Hour)
+- **Product Performance** (Top 10 Items)
+- **MoM Comparison** (Growth Metrics)
+- **Interactive Filters** (Date Range, Product Type)
 
+## 📊 Dashboard Highlights
 
-🔑 Key Features
+### 1. Sales Overview (March 2025)
+| Metric | Value | Change vs Prev Month |
+|--------|-------|----------------------|
+| Total Sales | $99K | -$22.7K |
+| Total Orders | 149,116 | +29.8% |
+| Quantity Sold | 214,470 | - |
 
-✅ Real-time KPI Tracking (Sales, Orders, Quantity Sold)
+### 2. Peak Performance Insights
+- 🕛 **Busiest Hour**: 12 PM (Lunch Rush)
+- 📅 **Best Day**: Fridays 
+- ☕ **Top Product**: Caramel Macchiato
 
-✅ Interactive Calendar Heatmap (Daily Sales Trends)
+### 3. Time-Based Patterns
 
-✅ Time-based Sales Analysis (Hourly, Daily, Monthly)
+- Weekends show 35% higher sales than weekdays
+- Morning (8-10 AM) and Afternoon (2-4 PM) rushes
 
-✅ MoM (Month-over-Month) Comparison
+## 🛠️ Technical Details
+🔹 **Data Sources & Transformation**
 
-✅ Top Products & Category Performance
+  **CSV/Excel/DB Import**: Sales transactions, product details, timestamps.
 
-✅ Weekday vs. Weekend Sales Insights
+ **Power Query**: Data cleaning & transformation.
 
-📊 Dashboard Components
+  **Date Table**: Built for time intelligence calculations.
 
-1️⃣ KPI Summary Cards
+  🔹**Visualizations Used**
 
-  Total Sales 
+ **Line & Bar Charts** (Trend Analysis)
 
-  Total Quantity Sold 
+ **Matrix Tables** (Category-wise sales)
 
-  Total Orders 
+ **Custom Calendar Heatmap** (Daily sales intensity)
 
-  MoM (Month-over-Month) Growth % 
+ **Card Visuals** (KPI summaries)
 
-  Sales vs. Last Month (LM) 
+## 📥 Installation & Access
 
-2️⃣ Sales Trend Analysis
+Download the .pbix file from the repository.
 
-📈 Line Chart: Tracks sales performance over selected periods (daily, weekly, monthly).
-
-📊 Average Sales Line: Highlights days exceeding or falling below average sales.
-
-3️⃣ Calendar Heatmap
-
-🗓️ Dynamic Month Selection: Adjusts based on slicer input.
-
-🎨 Color Gradient: Darker shades indicate higher sales.
-
-🖱️ Tooltips: Display Sales, Orders, and Quantity on hover.
-
-4️⃣ Hourly & Daily Sales Breakdown
-
-⏰ Peak Hours Analysis: Identifies busiest times (e.g., 12 PM).
-
-📅 Weekday vs. Weekend Comparison: Reveals sales patterns.
-
-5️⃣ Product Performance
-
-🏆 Top 10 Products: Ranked by sales volume.
-
-☕ Category-wise Sales: Breakdown by coffee types, snacks, etc.
-
-
-
-
-🛠️ Technical Implementation
-
-🔹 Data Sources & Transformation
-
- CSV/Excel/DB Import: Sales transactions, product details, timestamps.
-
- Power Query: Data cleaning & transformation.
-
-  Date Table: Built for time intelligence calculations.
-
-🔹 Visualizations Used
-
-Line & Bar Charts (Trend Analysis)
-
-Matrix Tables (Category-wise sales)
-
-Custom Calendar Heatmap (Daily sales intensity)
-
-Card Visuals (KPI summaries)
-
-🚀 How to Use the Dashboard?
+## 🚀 How to Use
 
  1. Select a Month/Year from the slicer to filter data dynamically.
 
@@ -99,23 +70,15 @@ Card Visuals (KPI summaries)
  4. Compare Weekdays vs. Weekends for strategic staffing decisions.
 
 
-📥 Installation & Access
+---
+📧 **Contact**: swathyammu303@gmail.com
 
-Download the .pbix file from the repository.
-
-
-Open in Power BI Desktop.
+🔗 **LinkedIn**: https://www.linkedin.com/in/swathy-k-a3a5a32a4/
 
 
 
 
 
-
-👨‍💻 Developed by Swathy K
-
-📧 Contact: swathyammu303@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/swathy-k-a3a5a32a4/
 
 
 
